@@ -1,4 +1,5 @@
-# link_short
-링크 단축 엔진을 직접 개발해보려 시도한 흔적입니다.<br>
-아직 DB 저장도 구현 안하고 링크 생성 구현하다가 때려쳤습니다.<br>
-나중에 심심하면 다시 코드 주워서 완성할듯.
+## linkShortEngine
+This is an attempt at developing a custom link shortening engine.
+
+## How it works
+A directory is created using a random English string as its name, and inside that directory, an index.html file is placed which redirects to the target link
